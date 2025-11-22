@@ -19,6 +19,7 @@ Microsoft
 google
 cloudflare
 小黄云
+!广告
 
 中国
 美国
@@ -30,3 +31,5 @@ cloudflare
 柬埔寨
 越南
 缅甸
+!抛售
+!股市
